@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 def get_operation():
     op = input("Operacao")
 
     return op
+=======
+import test
+>>>>>>> test
 
 def gather_data():
     n1 = input("Primeiro valor: ")
